@@ -2,3 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
+
+.ejemmplo{
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+    border: 1px solid #0000ff;
+    border-top: 2px double #ff0000;
+    border-bottom: 10px dotted #00ff00;
+    border-radius: 10px;
+    border-bottom-right-radius:0px ;
+}
